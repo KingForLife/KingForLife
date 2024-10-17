@@ -43,7 +43,7 @@
    
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: dev@korrupt.ro<br/><br/>
+ 📧 &emsp; Reach me anytime: contact@korrupt.ro<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/KingForLife/KingForLife/issues)
 
 </p>
